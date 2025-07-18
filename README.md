@@ -39,3 +39,8 @@ This project introduces a React-based web application that functions as a clone 
 
    ```bash
    git clone https://github.com/vkk28/gemini-clone.git
+   ```
+
+## Deployment
+
+You can access the deployed version of this project at: [https://clone-gemini.vercel.app](https://clone-gemini.vercel.app)
